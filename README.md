@@ -33,6 +33,12 @@
    ```sh
    npm install
    ```
+   
+   If you get any error user Yarn as below.
+   
+   ```sh
+   yarn install
+   ```
 
 3. Run the app
 
